@@ -1,9 +1,9 @@
 <ins>**Keywords**</ins>:
 
-  - Engineering
-  - Management
-  - Research and Development
-  - Leadership
+  - Engineering (Digital & Analog Electronics, Software)
+  - Management (Time, Project)
+  - Research and Development (Article)
+  - Leadership (Job Allocation, Communication)
 
     
 **_Smart Power Meter Senior Project_**
