@@ -1,10 +1,10 @@
-_Smart Power Meter Senior Project_ 
+**_Smart Power Meter Senior Project_**
 
   -> Developed Senior Project “Smart Power Meter” aims to measure power consumption of a variety of plugs by using
  Resonant Inductive Coupling Method with Arduino Uno and Arduino Nano using C programming language wirelessly.
 
  
-_Electric Motorcycle Startup Group Leader_
+**_Electric Motorcycle Startup Group Leader_**
 
 
   ->	Collaborated “Electric Motorcycle” Startup Group Leader.
@@ -17,7 +17,7 @@ and supplied a solution for transportation problem in Istanbul.
   -> During startup business analysis and market research were conducted via some forecasting methods.
 
 
-_Robotic Arm Project_
+**_Robotic Arm Project_**
 
 
   ->	Managed Robotic Arm Project using Arduino Uno coding C programming language.
