@@ -3,7 +3,7 @@
   - Engineering (Digital & Analog Electronics, Software)
   - Management (Time, Project)
   - Research and Development (Article)
-  - Leadership (Job Allocation, Communication)
+  - Leadership (Task Allocation, Communication)
 
     
 **_Smart Power Meter Senior Project_**
