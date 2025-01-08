@@ -1,3 +1,11 @@
+<ins>**Keywords**</ins>
+
+  - Engineering
+  - Management
+  - Research and Development
+  - Leadership
+
+    
 **_Smart Power Meter Senior Project_**
 
   -> Developed Senior Project “Smart Power Meter” aims to measure power consumption of a variety of plugs by using
